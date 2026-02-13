@@ -32,8 +32,8 @@ uv run python pandas/example.py
 ## 👨‍💻 Author
 
 **Kartik Gile**
-📧 [kartik09202@gmail.com](mailto:kartik09202@gmail.com)
-
-🔗 https://linkedin.com/in/kartik-gile
-
-💻 https://github.com/kartik0920
+📧 [kartik09202@gmail.com](mailto:kartik09202@gmail.com)<br>
+🔗 LinkedIn: https://linkedin.com/in/kartik-gile<br>
+💻 GitHub: https://github.com/kartik0920<br>
+📸 Instagram: https://instagram.com/imthe.kartik<br>
+🐦 X: https://x.com/KartikGile9749<br>
